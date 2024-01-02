@@ -1,1 +1,7 @@
 # GRUMCZAK.github.io
+theme: jekyll-theme-cayman
+
+Lubię narciarstwo, bo szybka jazda dostarcza wielu emocji, na nartach można zobaczyć piękne miejsca i spędzić czas ze znajomymi, a to wszystko na świeżym powietrzu :)
+### Narciarstwo - lubię je :)
+
+<img title="Narciarz" alt="" src="https://www.ischgl.com/media/ischgl/WINTER/SKIGEBIET/image-thumb__53475433__og-image/SKI_ALPIN_2022%20%287%29.webp">

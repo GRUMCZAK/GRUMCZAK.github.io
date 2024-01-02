@@ -1,2 +1,4 @@
-# GRUMCZAK.github.io
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
+
+###Hobby
+Szybka jazda, która dostarcza wielu emocji, czas, który można spędzić zarówno samemu, jak i ze znajomymi oraz zwiedzanie różnych pięknych miejsc - narciarstwo zapewnia wszystkie te rzeczy :)
